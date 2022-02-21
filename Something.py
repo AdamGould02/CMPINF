@@ -7,3 +7,5 @@ other = input("Provide a ______: ")
 
 
 # do something
+
+print("Your name is", name)
