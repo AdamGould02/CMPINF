@@ -1,5 +1,3 @@
 The program does things.
 
-*Bilal Mukhtar
-*Adam Gould
-*Ashley Ingenito
+Names: Bilal Mukhtar, Adam Gould, and Ashley Ingenito
