@@ -2,7 +2,7 @@
 
 
 # code
-name = input("Provide yor name: ")
+name = input("Provide your name: ")
 other = input("Provide a birthday : ")
 
 
